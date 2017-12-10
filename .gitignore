@@ -37,3 +37,6 @@ superset/assets/version_info.json
 
 # IntelliJ
 *.iml
+
+#Eclipse
+.project
